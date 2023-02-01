@@ -1,2 +1,46 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Признания</title>
+</head>
+<body>
+		<table align="center" width="1200">Признания от людей.(ЖЕСТЬ 21+, БЕРЕМЕННЫМ И ДЕТЯМ НЕ СМОТРЕТЬ)</table>
+		<table border="1" cellspacing="0">
+			<tr>
+				<td colspan="6"><img src="logo.jpg" width="600" height="300"></td>
+			</tr>
+			<tr>
+				<td rowspan="1">№</td>
+				<td rowspan="1">Имя</td>
+				<td colspan="2">Секрет, и секретное признание в секретах (правда).</td>
+			</tr>
+			<tr>
+				<td>1</td>
+				<td>Максим</td>
+				<td>Мусульман</td>
+				<td>Он космонавт. Но, то что он мусульман, не скрывает.</td>
+			</tr>
+			<tr>
+				<td>2</td>
+				<td>Андрей</td>
+				<td>Краб</td>
+				<td>Но делает вид, что он рак.</td>
+			</tr>
+			<tr>
+				<td>3</td>
+				<td>Олефиренко</td>
+				<td>Информатичка</td>
+				<td>Но говорит, что она преподает биологию.</td>
+			</tr>
+			<tr>
+				<td colspan="6"><img src="gen.png" width="600" height="170"></td>
+			</tr>
+			<table>
+			Всех благодарю за просмотр. Уверен, вам не понравилось увиденное.</table>
+ 			<table>Не потому, что эти секреты - полная жесть, а потому, что я допустил опечатку в тексте сверху.</table>
+			<table>Но ничего, ничего. Я исправил.</table>
+			
+	    	</body>
+</html>
